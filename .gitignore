@@ -1,0 +1,4 @@
+# Local files that should not be pushed
+solution_generator.py
+question.md
+generated_c_solutions/
